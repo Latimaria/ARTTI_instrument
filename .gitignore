@@ -1,0 +1,6 @@
+temp/
+test/logs/adb
+test/logs/element
+test/logs/match
+push_hello.sh
+test.sh

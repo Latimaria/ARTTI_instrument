@@ -19,7 +19,6 @@ adb shell <<EOF
 run-as $PACKAGE_NAME
 cp /sdcard/$AGENT_NAME ./
 pwd
-ls
 exit
 EOF
 
